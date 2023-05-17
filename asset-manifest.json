@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React---Hook---user-state---useEffect/static/css/main.dc7d412a.css",
+    "main.js": "/React---Hook---user-state---useEffect/static/js/main.510972b3.js",
+    "static/js/787.4ddce989.chunk.js": "/React---Hook---user-state---useEffect/static/js/787.4ddce989.chunk.js",
+    "static/media/color.png": "/React---Hook---user-state---useEffect/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/React---Hook---user-state---useEffect/index.html",
+    "main.dc7d412a.css.map": "/React---Hook---user-state---useEffect/static/css/main.dc7d412a.css.map",
+    "main.510972b3.js.map": "/React---Hook---user-state---useEffect/static/js/main.510972b3.js.map",
+    "787.4ddce989.chunk.js.map": "/React---Hook---user-state---useEffect/static/js/787.4ddce989.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc7d412a.css",
+    "static/js/main.510972b3.js"
+  ]
+}
