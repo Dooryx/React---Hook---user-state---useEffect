@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React---Hook---user-state---useEffect/static/css/main.dc7d412a.css",
-    "main.js": "/React---Hook---user-state---useEffect/static/js/main.510972b3.js",
-    "static/js/787.4ddce989.chunk.js": "/React---Hook---user-state---useEffect/static/js/787.4ddce989.chunk.js",
-    "static/media/color.png": "/React---Hook---user-state---useEffect/static/media/color.6441e63a57ccc5105bad.png",
-    "index.html": "/React---Hook---user-state---useEffect/index.html",
-    "main.dc7d412a.css.map": "/React---Hook---user-state---useEffect/static/css/main.dc7d412a.css.map",
-    "main.510972b3.js.map": "/React---Hook---user-state---useEffect/static/js/main.510972b3.js.map",
-    "787.4ddce989.chunk.js.map": "/React---Hook---user-state---useEffect/static/js/787.4ddce989.chunk.js.map"
+    "main.css": "/ReactHosting.github.io/static/css/main.5d055bb7.css",
+    "main.js": "/ReactHosting.github.io/static/js/main.55984587.js",
+    "static/js/787.4ddce989.chunk.js": "/ReactHosting.github.io/static/js/787.4ddce989.chunk.js",
+    "static/media/color.png": "/ReactHosting.github.io/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/ReactHosting.github.io/index.html",
+    "main.5d055bb7.css.map": "/ReactHosting.github.io/static/css/main.5d055bb7.css.map",
+    "main.55984587.js.map": "/ReactHosting.github.io/static/js/main.55984587.js.map",
+    "787.4ddce989.chunk.js.map": "/ReactHosting.github.io/static/js/787.4ddce989.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc7d412a.css",
-    "static/js/main.510972b3.js"
+    "static/css/main.5d055bb7.css",
+    "static/js/main.55984587.js"
   ]
 }
